@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 import phonenumbers
 from phonenumbers import geocoder, carrier, timezone
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8782762466:AAGh2AOb7Cj2EdG09_sD-graYMzeN4LNm88"
 
 # Buttons
 keyboard = [["📱 Check Number"], ["❌ Exit"]]
