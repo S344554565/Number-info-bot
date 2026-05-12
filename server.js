@@ -197,5 +197,5 @@ app.get('/api/status', (req, res) => {
 
 app.listen(PORT, () => {
     console.log(`🚀 Hacker Messenger running on http://localhost:${PORT}`);
-    console.log(`⚜️ 9MAN-x-YAMDHUD ⚜️`);
+    console.log(`⚜️ MR SURAJ ⚜️`);
 });
